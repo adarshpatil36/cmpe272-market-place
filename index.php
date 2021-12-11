@@ -1,3 +1,4 @@
+<?php require "header.php" ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -20,8 +21,8 @@
                     <li><a href="#home">Populars</a></li>
                     <li><a href="#about">About</a></li>
                     <li><a href="#home">Logout</a></li>
-                    <!-- <li><a href="#specs">Specs</a></li>
-                      <li><a href="#contact">Contact</a></li> -->
+                    <li><a href="#specs">Specs</a></li>
+                      <li><a href="#contact">Contact</a></li>
                 </ul>
             </div>
         </nav>
